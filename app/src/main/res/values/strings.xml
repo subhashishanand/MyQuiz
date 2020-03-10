@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="next">NEXT</string>
+    <string name="home">Home</string>
+    <string name="myprofile">Profile</string>
+    <string name="logout">Logout</string>
+</resources>
